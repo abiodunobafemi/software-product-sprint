@@ -7,3 +7,40 @@
 #greeting-container {
   margin-top: 20px;
 }
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  color: red;
+  text-align: center;
+}
+
+
+h3 {
+  color: red;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  text-align: center;
+  font-size: 20px;
+  color: white
+}
+
+a {
+  margin: 10px;
+  bottom:20px;
+  margin-left: 40px;
+  width: 400px;
+  height: 255px;
+  border-radius: 10px;
+}
+
